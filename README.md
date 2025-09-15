@@ -1,4 +1,4 @@
-# 👋 Olá, eu sou Antonio Gabriel Samalombo
+# Olá, eu sou Antonio Gabriel Samalombo
 
 <div align="center">
   
