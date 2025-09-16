@@ -11,7 +11,7 @@
 ## Sobre Mim
 
 <p align="justify">
-** Desenvolvedor FullStack** com foco em criar soluções completas e eficientes
+** Desenvolvedor FullStack ** com foco em criar soluções completas e eficientes
   
  Atualmente trabalhando com: **Java, Spring Boot, React e MySQL**
   
