@@ -11,7 +11,7 @@
 ## Sobre Mim
 
 <p align="justify">
-** Desenvolvedor FullStack ** com foco em criar soluções completas e eficientes
+ Desenvolvedor FullStack  com foco em criar soluções completas e eficientes
   
  Atualmente trabalhando com: **Java, Spring Boot, React e MySQL**
   
@@ -59,12 +59,4 @@
 
 ![GitHub Contributions](https://github-readme-activity-graph.vercel.app/graph?username=tonygabriel60&theme=react-dark&hide_border=true&area=true)
 
-<div align="center">
-  
-![Visitors](https://komarev.com/ghpvc/?username=tonygabriel60&color=blueviolet&style=flat-square)
 
-</div>
-
----
-
-**Vamos nos conectar e criar algo incrível juntos!**
