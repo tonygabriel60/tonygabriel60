@@ -15,12 +15,10 @@
   
  Atualmente trabalhando com: **Java, Spring Boot, React e MySQL**
   
- Especializado em: **Desenvolvimento de aplicações web end-to-end**
   
- **"A tecnologia move o mundo e eu adoro fazer parte desse movimento!"**
-</p>
+ 
 
-##  Stack Tecnológica
+##  Stacks
 
 ### Backend
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-plastic&logo=openjdk&logoColor=white)
