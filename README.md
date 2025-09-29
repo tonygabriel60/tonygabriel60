@@ -57,6 +57,6 @@ Desenvolvedor angolano residente no Brasil, formado em Análise e Desenvolviment
 ## Contato
 
 <p align="center">
-Entre em contato comigo através do LinkedIn ou Instagram, ou acompanhe meus projetos aqui no GitHub!
+Entre em contato comigo através do LinkedIn ou Instagram, ou acompanhe meus projetos aqui no GitHub
 </p>
 
