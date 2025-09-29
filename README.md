@@ -10,7 +10,7 @@
 ## Sobre Mim
 
 <p align="justify">
-Desenvolvedor angolano residente no Brasil, formado em Análise e Desenvolvimento de Sistemas. Especializado na criação de APIs e produtos escaláveis, com forte foco em qualidade de código, testes automatizados e colaboração em equipes ágeis. Apaixonado por tecnologia e sempre buscando evoluir minhas habilidades no desenvolvimento full stack.
+Desenvolvedor angolano residente no Brasil. Apaixonado por tecnologia e sempre buscando evoluir minhas habilidades no desenvolvimento full stack.
 </p>
 
 ## Stacks
