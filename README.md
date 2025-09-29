@@ -40,20 +40,6 @@ Desenvolvedor angolano residente no Brasil. Apaixonado por tecnologia e sempre b
 
 </div>
 
-## Projetos Destacados
-
-<div align="center">
-
-[![Readme](https://github-readme-stats.vercel.app/api/pin/?username=tonygabriel60&repo=dio-lab-open-source&theme=radical&show_owner=true)](https://github.com/tonygabriel60/dio-lab-open-source)
-
-</div>
-
-**DIO Lab Open Source**: Projeto colaborativo desenvolvido durante bootcamp da Digital Innovation One, focando em práticas de contribuição open source e uso de Git/GitHub.
-
-## Atividade Recente
-
-![GitHub Contributions](https://github-readme-activity-graph.vercel.app/graph?username=tonygabriel60&theme=react-dark&hide_border=true&area=true)
-
 ## Contato
 
 <p align="center">
