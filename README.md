@@ -53,3 +53,4 @@ Também possuo experiência com tecnologias <strong>Frontend</strong> como <stro
 ## 📈 Contribuições
 
 ![GitHub Contributions](https://github-readme-activity-graph.vercel.app/graph?username=tonygabriel60&theme=react-dark&hide_border=true&area=true)
+
