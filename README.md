@@ -60,8 +60,3 @@ Desenvolvedor angolano residente no Brasil, formado em Análise e Desenvolviment
 Entre em contato comigo através do LinkedIn ou Instagram, ou acompanhe meus projetos aqui no GitHub!
 </p>
 
----
-
-<p align="center">
-⭐ Desenvolvendo soluções com código limpo e arquitetura escalável
-</p>
