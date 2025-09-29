@@ -3,6 +3,7 @@
 <div align="center">
   
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/antonio-gabriel-samalombo-9123a7353/)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/tonygabriel60)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/callmetony1/)
 
 </div>
@@ -41,9 +42,13 @@ Também possuo experiência com tecnologias <strong>Frontend</strong> como <stro
 
 </div>
 
+## ✨ Projetos Destacados
 
+<div align="center">
 
+[![Readme](https://github-readme-stats.vercel.app/api/pin/?username=tonygabriel60&repo=dio-lab-open-source&theme=radical&show_owner=true)](https://github.com/tonygabriel60/dio-lab-open-source)
 
+</div>
 
 ## 📈 Contribuições
 
