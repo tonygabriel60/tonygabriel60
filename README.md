@@ -3,7 +3,7 @@
 <div align="center">
   
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/antonio-gabriel-samalombo-9123a7353/)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/tonygabriel60)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/callmetony1/)
 
 </div>
 
@@ -57,7 +57,7 @@ Desenvolvedor angolano residente no Brasil, formado em Análise e Desenvolviment
 ## Contato
 
 <p align="center">
-Entre em contato comigo através do LinkedIn ou acompanhe meus projetos aqui no GitHub!
+Entre em contato comigo através do LinkedIn ou Instagram, ou acompanhe meus projetos aqui no GitHub!
 </p>
 
 ---
