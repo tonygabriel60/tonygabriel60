@@ -1,56 +1,28 @@
-# Olá, eu sou Antonio Gabriel Samalombo 👋
+"Olá, eu sou Antonio Gabriel Samalombo"
 
-<div align="center">
-  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/antonio-gabriel-samalombo-9123a7353/)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/tonygabriel60)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/callmetony1/)
+<div align="center"> <a href="https://www.linkedin.com/in/antonio-gabriel-samalombo-9123a7353/" aria-label="LinkedIn de Antonio Gabriel Samalombo"> <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"> </a> <a href="https://www.instagram.com/callmetony1/#" aria-label="Instagram de Antonio Gabriel Samalombo"> <img alt="Instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"> </a> <a href="https://github.com/tonygabriel60" aria-label="GitHub de Antonio Gabriel Samalombo"> <img alt="GitHub" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"> </a> </div>
+Sobre mim
+Dev angolano residente no Brasil, formado em Análise e Desenvolvimento de Sistemas, com foco em APIs e produtos escaláveis, qualidade, testes e colaboração em times ágeis.
 
-</div>
+Backend: Java, Spring, Spring Boot, MySQL.
 
-## 👨‍💻 Sobre Mim
+Frontend: JavaScript, React, HTML5, CSS3.
 
-<p align="justify">
-Sou um desenvolvedor de software angolano apaixonado por tecnologia, atualmente residindo no Brasil. Com foco no desenvolvimento <strong>Backend</strong> utilizando o ecossistema <strong>Java e Spring</strong>, busco construir soluções robustas, escaláveis e eficientes. 
-<br><br>
-Também possuo experiência com tecnologias <strong>Frontend</strong> como <strong>JavaScript e React</strong>, o que me permite ter uma visão completa do desenvolvimento de uma aplicação. Estou sempre em busca de novos desafios e em constante aprendizado para aprimorar minhas habilidades.
-</p>
+Versionamento e colaboração: GitHub e Git Flow quando aplicável.
 
-## 🚀 Stacks
+Stacks
+Backend
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-plastic&logo=openjdk&logohttps://img.shields.io/badge/Spring-6DB33F?style=for-the-plastic&logo=spring&logohttps://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-plastic&logo=springhttps://img.shields.io/badge/MySQL-00000F?style=for-the-plastic&logo=mysql&logoColor
 
-### Backend
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-plastic&logo=openjdk&logoColor=white)
-![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-plastic&logo=spring&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-plastic&logo=springboot&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-plastic&logo=mysql&logoColor=white)
+Frontend
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-plastic&logo=javascripthttps://img.shields.io/badge/React-20232A?style=for-the-plastic&logo=react&logoColorhttps://img.shields.io/badge/HTML5-E34F26?style=for-the-plastic&logo=html5&logoColorhttps://img.shields.io/badge/CSS3-1572B6?style=for-the-plastic&logo=css3&logoColor
 
-### Frontend
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-plastic&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-plastic&logo=react&logoColor=61DAFB)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-plastic&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-plastic&logo=css3&logoColor=white)
+Ferramentas
+![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-plastic&logo=github&logo
 
-### Ferramentas
-![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-plastic&logo=github&logoColor=white)
-
-## 📊 Estatísticas do GitHub
-
-<div align="center">
-  
-![Tony's GitHub stats](https://github-readme-stats.vercel.app/api?username=tonygabriel60&show_icons=true&theme=radical&hide_border=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=tonygabriel60&layout=compact&theme=radical&hide_border=true)
-
-</div>
-
-## ✨ Projetos Destacados
-
-<div align="center">
-
-[![Readme](https://github-readme-stats.vercel.app/api/pin/?username=tonygabriel60&repo=dio-lab-open-source&theme=radical&show_owner=true)](https://github.com/tonygabriel60/dio-lab-open-source)
-
-</div>
-
-## 📈 Contribuições
-
-![GitHub Contributions](https://github-readme-activity-graph.vercel.app/graph?username=tonygabriel60&theme=react-dark&hide_border=true&area=true)
-
+Estatísticas do GitHub
+<div align="center"> <img alt="GitHub stats" src="https://github-readme-stats.vercel.app/api?username=tonygabriel60&show_icons=true&theme=radical&hide_border=true" loading="lazy"> <img alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tonygabriel60&layout=compact&theme=radical&hide_border=true" loading="lazy"> </div>
+Projetos em destaque
+<div align="center"> <a href="https://github.com/tonygabriel60/dio-lab-open-source" aria-label="Repositório: dio-lab-open-source"> <img alt="dio-lab-open-source" src="https://github-readme-stats.vercel.app/api/pin/?username=tonygabriel60&repo=dio-lab-open-source&theme=radical&show_owner=true" loading="lazy"> </a> </div>
+Contribuições
+<img alt="Gráfico de Contribuições" src="https://github-readme-activity-graph.vercel.app/graph?username=tonygabriel60&theme=react-dark&hide_border=true&area=true" loading="lazy">
