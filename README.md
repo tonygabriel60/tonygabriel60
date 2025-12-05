@@ -45,4 +45,3 @@ Desenvolvedor angolano residente no Brasil. Apaixonado por tecnologia e sempre b
 <p align="center">
 Entre em contato comigo através do LinkedIn ou Instagram, ou acompanhe meus projetos aqui no GitHub
 </p>
-
