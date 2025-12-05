@@ -1,17 +1,16 @@
 # Olá, eu sou Antonio Gabriel Samalombo
 
-<div align="center">
-  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/antonio-gabriel-samalombo-9123a7353/)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/callmetony1/)
-
-</div>
-
 ## Sobre Mim
 
-<p align="justify">
 Desenvolvedor angolano residente no Brasil. Apaixonado por tecnologia e sempre buscando evoluir minhas habilidades no desenvolvimento full stack.
-</p>
+
+## Linguagens Mais Utilizadas
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tonygabriel60&langs_count=8&theme=tokyonight&layout=compact)](https://github.com/tonygabriel60)
+
+## Estatísticas GitHub
+
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=tonygabriel60&theme=tokyonight&show_icons=true)](https://github.com/tonygabriel60)
 
 ## Stacks
 
@@ -31,17 +30,9 @@ Desenvolvedor angolano residente no Brasil. Apaixonado por tecnologia e sempre b
 ![Git](https://img.shields.io/badge/Git-E34F26?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
 
-## Estatísticas do GitHub
-
-<div align="center">
-  
-![Tony's GitHub stats](https://github-readme-stats.vercel.app/api?username=tonygabriel60&show_icons=true&theme=radical&hide_border=true&count_private=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=tonygabriel60&layout=compact&theme=radical&hide_border=true&include_all_commits=true&count_private=true)
-
-</div>
-
 ## Contato
 
-<p align="center">
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/antonio-gabriel-samalombo-9123a7353/)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/callmetony1/)
+
 Entre em contato comigo através do LinkedIn ou Instagram, ou acompanhe meus projetos aqui no GitHub
-</p>
